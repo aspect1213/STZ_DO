@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="44c224c1-2bdf-4e03-bd80-1154b0111e3f">
+  <name>STZ_DO</name>
+  <synonym>
+    <key>ru</key>
+    <value>STZ DO</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <commandInterface>Extended</commandInterface>
+    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+    <defaultStyle>Extended</defaultStyle>
+    <defaultRoles>Extended</defaultRoles>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="7ac17ea0-b12f-4704-a4ef-5f61198cabec"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="c0648ca1-50a3-4ab7-b324-51cf1ded7e5d"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="47e5bdbb-d6cb-45f4-a14c-fc37eb28012b"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="47defcfa-1c4c-48d9-ab7e-54d9d19a0005"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4a33060c-bbf5-4d73-95a1-fc93098c6b6d"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="6a000335-c2ab-42ba-ba09-5976b9690d58"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="d80d32f9-5aa5-46d2-9edb-f0a553ec0773"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>STZ_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultRoles>Role.STZ_ОсновнаяРоль</defaultRoles>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <commonPictures>CommonPicture.Информация32</commonPictures>
+  <commonPictures>CommonPicture.Предупреждение</commonPictures>
+  <commonPictures>CommonPicture.Предупреждение32</commonPictures>
+  <commonPictures>CommonPicture.СинхронизацияДанныхДлительнаяОперация48</commonPictures>
+  <roles>Role.STZ_ОсновнаяРоль</roles>
+  <dataProcessors>DataProcessor.ВыполнениеОбменаДанными</dataProcessors>
+</mdclass:Configuration>
