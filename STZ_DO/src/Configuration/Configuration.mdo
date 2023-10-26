@@ -35,6 +35,8 @@
   <commonPictures>CommonPicture.Предупреждение32</commonPictures>
   <commonPictures>CommonPicture.СинхронизацияДанныхДлительнаяОперация48</commonPictures>
   <roles>Role.STZ_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.STZ_ОбщийМодуль</commonModules>
+  <eventSubscriptions>EventSubscription.STZ_ПодпискаНаСобытие</eventSubscriptions>
   <catalogs>Catalog.STZ_Справочник</catalogs>
   <dataProcessors>DataProcessor.ВыполнениеОбменаДанными</dataProcessors>
 </mdclass:Configuration>
