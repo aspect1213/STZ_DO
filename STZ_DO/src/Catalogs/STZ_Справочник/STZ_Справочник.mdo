@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3af24073-eaf0-4e80-aea3-7c6dbad6d423">
+  <producedTypes>
+    <objectType typeId="ec010297-06fe-42ff-8bea-c52afa00d499" valueTypeId="6aa144db-cf98-4f51-a9c6-92374aafdea2"/>
+    <refType typeId="9ed06fb3-7ed8-4e55-9a2d-5ae58a6585da" valueTypeId="d10f06b1-900d-416d-b55c-14e19549224d"/>
+    <selectionType typeId="b9d89392-0263-4d4b-b8df-0edc0d802b9a" valueTypeId="05e7a43a-5c79-4352-8c97-31e5dc8a5391"/>
+    <listType typeId="d754958f-e4e7-46cd-a50a-e0f9bc0a10ba" valueTypeId="2d03036d-27c5-41ad-a869-568e170e9cb5"/>
+    <managerType typeId="556765fa-cd97-40f6-b14b-3b0e75e691f5" valueTypeId="8ed5ec28-1894-4acf-9f9b-ee3710fc371a"/>
+  </producedTypes>
+  <name>STZ_Справочник</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.STZ_Справочник.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.STZ_Справочник.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
