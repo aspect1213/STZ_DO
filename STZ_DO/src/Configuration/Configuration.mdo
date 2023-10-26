@@ -38,5 +38,6 @@
   <commonModules>CommonModule.STZ_ОбщийМодуль</commonModules>
   <eventSubscriptions>EventSubscription.STZ_ПодпискаНаСобытие</eventSubscriptions>
   <catalogs>Catalog.STZ_Справочник</catalogs>
+  <documents>Document.STZ_Документ</documents>
   <dataProcessors>DataProcessor.ВыполнениеОбменаДанными</dataProcessors>
 </mdclass:Configuration>
